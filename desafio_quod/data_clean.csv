@@ -1,0 +1,51 @@
+ID,Data,Produto,Categoria,Quantidade,Preço
+1,2023-05-10,Sérum Vitamina C,Tratamento,5,32.04
+2,2023-04-12,Hidratante Facial,Hidratação,5,225.40
+3,2023-11-11,Sérum Vitamina C,Tratamento,3,31.45
+4,2023-05-23,Hidratante Facial,Hidratação,5,153.10
+5,2023-01-22,Sérum Vitamina C,Tratamento,8,233.32
+6,2023-08-04,Hidratante Facial,Hidratação,4,186.39
+7,2023-06-05,Sérum Vitamina C,Tratamento,4,108.46
+8,2023-03-20,Hidratante Facial,Hidratação,6,136.67
+9,2023-03-16,Hidratante Facial,Hidratação,7,172.58
+10,2023-08-28,Ácido Hialurônico,Tratamento,5,213.19
+11,2023-11-18,Protetor Solar,Proteção,2,190.72
+12,2023-08-24,Gel de Limpeza,Limpeza,3,141.07
+13,2023-07-28,Protetor Solar,Proteção,5,67.94
+14,2023-05-10,Protetor Solar,Proteção,4,77.60
+15,2023-02-02,Tônico Facial,Limpeza,3,104.38
+16,2023-08-24,Hidratante Facial,Hidratação,3,220.83
+17,2023-02-07,Sérum Vitamina C,Tratamento,5,31.33
+18,2023-02-16,Sérum Vitamina C,Tratamento,4,206.38
+19,2023-01-28,Tônico Facial,Limpeza,2,192.20
+20,2023-06-13,Hidratante Facial,Hidratação,6,206.85
+21,2023-10-15,Tônico Facial,Limpeza,3,200.08
+22,2023-06-24,Hidratante Facial,Hidratação,5,91.23
+23,2023-12-13,Ácido Hialurônico,Tratamento,4,244.93
+24,2023-03-23,Gel de Limpeza,Limpeza,4,124.65
+25,2023-06-17,Hidratante Facial,Hidratação,8,169.25
+26,2023-12-19,Tônico Facial,Limpeza,6,136.12
+27,2023-04-22,Protetor Solar,Proteção,4,92.09
+28,2023-03-11,Ácido Hialurônico,Tratamento,7,228.74
+29,2023-11-30,Tônico Facial,Limpeza,6,230.53
+30,2023-09-30,Sérum Vitamina C,Tratamento,6,78.89
+31,2023-02-14,Sérum Vitamina C,Tratamento,7,123.66
+32,2023-03-14,Tônico Facial,Limpeza,8,165.71
+33,2023-11-17,Tônico Facial,Limpeza,6,195.65
+34,2023-01-11,Hidratante Facial,Hidratação,3,237.11
+35,2023-01-21,Sérum Vitamina C,Tratamento,2,211.68
+36,2023-10-07,Hidratante Facial,Hidratação,7,243.17
+37,2023-10-09,Ácido Hialurônico,Tratamento,1,158.50
+38,2023-10-02,Gel de Limpeza,Limpeza,8,236.85
+39,2023-04-06,Ácido Hialurônico,Tratamento,6,144.45
+40,2023-01-06,Ácido Hialurônico,Tratamento,2,73.76
+41,2023-02-13,Tônico Facial,Limpeza,4,109.32
+42,2023-12-17,Protetor Solar,Proteção,4,52.63
+43,2023-03-16,Ácido Hialurônico,Tratamento,8,125.03
+44,2023-04-19,Protetor Solar,Proteção,5,202.85
+45,2023-06-30,Tônico Facial,Limpeza,4,168.81
+46,2023-04-21,Protetor Solar,Proteção,6,204.05
+47,2023-08-06,Protetor Solar,Proteção,7,102.65
+48,2023-09-16,Sérum Vitamina C,Tratamento,4,171.09
+49,2023-04-04,Protetor Solar,Proteção,1,61.90
+50,2023-05-12,Sérum Vitamina C,Tratamento,1,137.82
